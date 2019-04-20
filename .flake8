@@ -1,0 +1,4 @@
+[flake8]
+exclude = env,venv,.venv,.git,.tox,dist,doc
+inline-quotes = "
+import-order-style = pep8
