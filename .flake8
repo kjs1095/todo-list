@@ -1,4 +1,4 @@
 [flake8]
-exclude = env,venv,.venv,.git,.tox,dist,doc
+exclude = env,venv,.venv,.git,.tox,dist,doc,superlists/superlists/settings.py
 inline-quotes = "
 import-order-style = pep8
